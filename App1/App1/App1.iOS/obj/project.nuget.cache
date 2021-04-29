@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Do4GlTy6gtKMJfP4IhnWcMOEZJMdOrYIqK8P3p08xNyrdirNH9iHG/DgD+gbU/QadFj0Z25sgvC1gGuSVW6FUg==",
+  "success": true,
+  "projectFilePath": "/Users/shutchinson/Desktop/App1/App1/App1.iOS/App1.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/shutchinson/.nuget/packages/xamarin.forms/4.4.0.991640/xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wl2oDKJeyy5ihzuSQ0BFJr67DMl+0R/AFEsEzIeKK67cQ54WBRgYQ1Vf55mGUGaHMN5lotrClEoQrdZNg9KHNg==",
+  "success": true,
+  "projectFilePath": "/Users/shutchinson/Desktop/App1/App1/App1/App1.csproj",
+  "expectedPackageFiles": [
+    "/Users/shutchinson/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/shutchinson/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/shutchinson/.nuget/packages/xamarin.forms/4.4.0.991640/xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}
